@@ -1,0 +1,16 @@
+# Build artifacts
+_build/
+deps/
+.nerves/
+
+# Firmware images
+*.fw
+*.img
+
+# Mix / Elixir artifacts
+*.ez
+erl_crash.dump
+
+# OS files
+.DS_Store
+Thumbs.db
